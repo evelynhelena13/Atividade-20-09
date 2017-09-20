@@ -1,0 +1,12 @@
+NOME
+sda
+RUA
+sad
+CEP
+sad
+BAIRRO
+dsa
+ESTADO
+sad
+TELEFONE
+sda
