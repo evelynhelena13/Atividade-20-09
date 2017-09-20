@@ -1,9 +1,3 @@
-def busca(agenda, nome):
-   try:
-      print (nome)
-         except Exception:
-      print nome, 'não está na agenda.'
-
 print("AGENDA DE ALUNOS")
 
 nome = input("Digite seu nome: ")
@@ -38,7 +32,6 @@ arq.write("\n")
 arq.write("TELEFONE")
 arq.write("\n")
 arq.write(telefone)
-
 
 
 while C =="sim":
