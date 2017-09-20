@@ -67,5 +67,10 @@ while C =="sim":
     arq.write("TELEFONE")
     arq.write("\n")
     arq.write(telefone)
+text = "Nome: {}\nEndereço:{},{},{},{}\nTelefone:{}\n".format(nome, rua, cep, bairro, estado, telefone)
+
+usuario = input ("Digite o nome que deseja pesquisar: ")
+if usuario == nome:
+   print(text)
     
 
